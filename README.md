@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Emir Zepeda | Full-Stack Developer 💻</h1>
+<h1 align="center">🚀 Emir Zepeda | Desarrollador Full-Stack 💻</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
@@ -6,46 +6,46 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 Sobre Mí  
 
 ✨ **Código con propósito, rendimiento y escalabilidad.**  
-🎨 **Frontend Lover:** UI/UX limpios con **Material UI & TailwindCSS**.  
-🛠 **Backend Architect:** APIs robustas con **Node.js, NestJS & Databases**.  
-🚀 **DevOps Enthusiast:** Automatización con **Docker & CI/CD Pipelines**.  
-🔥 Siempre **empujando los límites del código**.  
+🎨 **Apasionado del Frontend:** UI/UX limpios con **Material UI & TailwindCSS**.  
+🛠 **Arquitecto de Backend:** APIs sólidas con **Node.js, NestJS & Bases de Datos**.  
+🚀 **DevOps Fanático:** Automatización con **Docker & CI/CD Pipelines**.  
+🔥 Siempre **llevando el código al siguiente nivel**.  
 
 > _"Si el código no rompe, no lo estás empujando lo suficiente."_ 😎  
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tecnologías  
 
-### 🖥 **Frontend Power**  
+### 🖥 **Frontend**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,materialui" height="50">
 </p>
 
-### 🚀 **Backend & Databases**  
+### 🚀 **Backend & Bases de Datos**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb" height="50">
 </p>
 
-### 🛠 **DevOps & Tools**  
+### 🛠 **DevOps & Herramientas**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,postman,prisma,vercel" height="50">
 </p>
 
 ---
 
-## 📡 Currently Exploring  
+## 📡 Actualmente Explorando  
 
-📌 **Microservices & Distributed Systems**  
-📌 **Cloud Computing & Serverless**  
-📌 **CI/CD Pipelines & Advanced DevOps**  
+📌 **Microservicios & Sistemas Distribuidos**  
+📌 **Computación en la Nube & Serverless**  
+📌 **Pipelines CI/CD & DevOps Avanzado**  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Estadísticas de GitHub  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirZepeda&theme=tokyonight&hide_border=false" />
@@ -57,7 +57,7 @@
 
 ---
 
-## 📬 Let's Connect!  
+## 📬 ¡Conéctate conmigo!  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-zepeda/">
