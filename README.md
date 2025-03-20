@@ -10,26 +10,36 @@
 💡 Apasionado por desarrollar aplicaciones web **rápidas, escalables y eficientes**.  
 🎨 Amante del diseño limpio y funcional con **Material UI & TailwindCSS**.  
 🧠 Siempre explorando **microservicios, DevOps y optimización de bases de datos**.  
-⚡ **No solo escribo código, creo experiencias digitales.**
+⚡ **No solo escribo código, creo experiencias digitales.**  
+🛠️ Experto en **React, Node.js, MySQL, MongoDB y más...**  
+💀 **"Si el código no rompe, no lo estás empujando lo suficiente."** 😎  
 
 ---
 
 ## ⚙️ Tech Stack  
-> 🚀 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,materialui" height="50">
 
-> 🔥 **Backend & Databases:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb" height="50">
+### 🚀 **Frontend:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,materialui" height="50">
+</p>
 
-> 🛠️ **Tools & DevOps:**  
-<img src="https://skillicons.dev/icons?i=docker,git,postman,prisma,vercel" height="50">
+### 🔥 **Backend & Databases:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb" height="50">
+</p>
+
+### 🛠️ **Tools & DevOps:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,prisma,vercel" height="50">
+</p>
 
 ---
 
 ## 🌱 Currently Learning  
 🕸️ **Microservices & Distributed Systems**  
 🚀 **CI/CD Pipelines & DevOps**  
-⚡ **Advanced Database Optimization**
+⚡ **Advanced Database Optimization**  
+🐍 **C# para desarrollo backend con .NET**  
 
 ---
 
@@ -59,4 +69,4 @@
 
 ---
 
-💀 **"Si el código no rompe, no lo estás empujando lo suficiente."** 😎
+🔥 **_"El código bien escrito es poesía en movimiento."_** 🚀  
