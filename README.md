@@ -34,3 +34,43 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,postman,prisma,vercel" height="50">
 </p>
+
+---
+
+## 📡 Currently Exploring  
+
+📌 **Microservices & Distributed Systems**  
+📌 **Cloud Computing & Serverless**  
+📌 **CI/CD Pipelines & Advanced DevOps**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirZepeda&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirZepeda&show_icons=true&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 📬 Let's Connect!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emir-zepeda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/EmirZepeda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+🔥 **Código, innovación y alto rendimiento.** 🚀  
