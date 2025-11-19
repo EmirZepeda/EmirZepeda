@@ -1,30 +1,26 @@
-<!-- Banner / Título -->
-<h1 align="center">👋 Hey, soy Emir Zepeda</h1>
+<h1 align="center"> Emir Zepeda</h1>
 <h3 align="center">Desarrollador de Software · Web · Mobile · Unity</h3>
 
 <p align="center">
-  <a href="https://github.com/TU-USER">
-    <img src="https://img.shields.io/badge/GitHub-Emir_Zepeda-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:emirzepeda2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-emirzepeda2004%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="https://github.com/EmirZepeda">
+    <img src="https://img.shields.io/badge/GitHub-@EmirZepeda-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+Jr;Web+%7C+Mobile+%7C+Unity+2D;Always+learning+new+techs+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Fullstack+Jr+%7C+Next.js+%7C+Node.js;Android+%7C+Kotlin+%7C+Unity+2D;Construyendo+proyectos+reales+desde+0+🚀" />
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante en la **Universidad Tecnológica de Puebla (2022–2026)**.  
-- 💼 Experiencia como **Desarrollador de Software Jr en Softech Solutions** (Marzo 2024 – Enero 2025).  
-- 🧱 Enfocado en **frontend + backend** con **Next.js, TypeScript, Node.js** y **arquitectura hexagonal**.  
-- 📱 He trabajado en **apps Android (Kotlin)**, interfaces para **Smart TV y relojes inteligentes**.  
-- 🎮 Creador de un **videojuego 2D en Unity**.  
-- 🚀 Busco crecer en entornos **industriales / automotriz** y proyectos con impacto real.
+- Experiencia como **Desarrollador de Software Jr en Softech Solutions** (Marzo 2024 – Enero 2025).  
+- Enfocado en **frontend + backend** con **Next.js, TSX, TypeScript, Node.js** y **arquitectura hexagonal**.  
+- He trabajado en apps **Android (Kotlin)**, interfaces para **Smart TV y relojes inteligentes**.  
+- Creador de un **videojuego 2D en Unity (C#)**.  
+- Manejo **bases de datos SQL y NoSQL** y también realizo tareas de **soporte técnico básico, redes y SQL Server**.  
+- Siempre buscando aprender más y meterme a proyectos con impacto real, sobre todo en **industria / automotriz / herramientas internas**.
 
 ---
 
@@ -34,8 +30,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -54,9 +50,9 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-> También manejo consultas, mantenimiento y modelado de datos con **SQL**, uso de **DBeaver** y trabajo con datos desde backend.
+> Manejo consultas, mantenimiento y modelado de datos con **SQL**, uso de **DBeaver** y trabajo con datos desde backend.
 
-### 🔹 Herramientas & Otras Tecnologías
+### 🔹 Herramientas & Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
@@ -86,39 +82,43 @@
 
 ## 🚀 Proyectos Destacados
 
+> Aquí puedes ir ligando tus repos reales (CRUD, MVC, etc.).
+
 ### 📱 App de administración de tareas (Android + Web)
 - App móvil desarrollada en **Android Studio + Kotlin** para gestionar tareas.  
 - Versión web en proceso usando **Next.js + TypeScript**.  
 - Enfoque en una UI simple y rápida para uso diario.  
-- *(Agrega aquí el link a Play Store y al repo cuando quieras)*
+- _Repo próximamente público._
 
 ### 🎮 Videojuego 2D en Unity
 - Juego 2D desarrollado en **Unity + C#**.  
-- Implementación de movimiento de personaje, físicas simples, colisiones, animaciones y niveles.  
+- Movimiento de personaje, físicas simples, colisiones, animaciones y niveles.  
 - Uso de assets y organización del proyecto pensando en escalabilidad.  
-- *(Agrega el link al repo / itch.io si lo publicas)*
+
+### 🧪 Repos de práctica y ejercicios
+
+- [`Semana-1`](https://github.com/EmirZepeda/Semana-1): prácticas con **TypeScript**.  
+- [`CRUD`](https://github.com/EmirZepeda/CRUD): operaciones básicas de **Create, Read, Update, Delete** con **TypeScript**.  
+- [`tickets`](https://github.com/EmirZepeda/tickets): maquetación y estilos con **CSS**.  
+- [`vite-`](https://github.com/EmirZepeda/vite-): proyecto base con **Vite + TypeScript**.  
+- [`MVC`](https://github.com/EmirZepeda/MVC): ejemplo usando **Modelo–Vista–Controlador en C#**.  
 
 ---
 
 ## 📊 Stats de GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU-USER&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USER&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EmirZepeda&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirZepeda&theme=radical" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USER&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirZepeda&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📫 Contacto
+## 🤝 Cómo colaborar
 
-- 📧 **Email:** [emirzepeda2004@gmail.com](mailto:emirzepeda2004@gmail.com)  
-- 📍 **Ubicación:** Puebla, México  
-- 💼 **Abierto a:** prácticas, posiciones Jr, proyectos freelance y colaboración en proyectos interesantes.
-
----
-
-> Si te late colaborar en algo de **web, mobile o juegos**, mándame mensaje 😄
+Si te late colaborar en algo de **web, mobile o juegos**, abre un **issue** o mándame un mensaje directo por GitHub.  
+Siempre ando abierto a aprender cosas nuevas y a sumar a proyectos chidos 👊
